@@ -7,7 +7,7 @@ from list_of_words import words
 #select a random word from list
 
 word=choice(words).lower()
-print(word)
+#print(word)
 #create a list with '_' of the length same as that of random word
 
 blank_list=[]
