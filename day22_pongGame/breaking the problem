@@ -1,0 +1,10 @@
+create a screen
+create line shaped turtle travelling in Y axis on both sides
+movable lines based on onkeys
+score (title) on top - note when hit/miss
+dotted line in center vertical
+create ball
+collision with line on either side will pass ball to other side
+ball should go in a certain angle
+
+
