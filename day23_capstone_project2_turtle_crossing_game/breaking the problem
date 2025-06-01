@@ -1,0 +1,26 @@
+create a Turtle screen that is 600px by 600px.
+ You'll also need to turn off tracer(0)
+  use update() to refresh the screen every 0.1s.
+
+Step 1 - Check out how the game play works
+1. A turtle moves forwards when you press the "Up" key. It can only move forwards, not back, left or right.
+
+2. Cars are randomly generated along the y-axis and will move from the right edge of the screen to the left edge.
+
+3. When the turtle hits the top edge of the screen, it moves back to the original position and the player levels up. On the next level, the car speed increases.
+
+4. When the turtle collides with a car, it's game over and everything stops.
+
+
+
+Create a turtle player that starts at the bottom of the screen
+and listen for the "Up" keypress to move the turtle north.
+If you get stuck, check the video walkthrough in Step 3.
+
+
+Breakdown-
+Move the turtle with key press
+create and move cars
+detect collision with car
+detect when turtle reaches the other side
+create a scoreboard
